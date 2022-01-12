@@ -1,0 +1,82 @@
+/* 제목 부분 */
+#pub-top{
+    margin-top: 3em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+#pub-title{font-weight:bold; font-size:2em;}
+#pub-text{font-size:1.2em;}
+
+/* 클래스 버튼 디자인 */
+#pub-kind-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+    margin-bottom: 3em;
+}
+#pub-kind-btn button{
+    width: 8.5em;
+    height: 3em;
+    margin-left: 3em;
+    margin-right: 3em;
+    font-size: 1.3em;
+    font-style:inherit;
+    line-height: 1.2em;
+    border: 0;
+    border-radius: 40px;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s;
+}
+#pub-kind-btn button:hover{color:white; background:black;}
+/* 창 크기에 다른 클래스 버튼 크기 조절 */
+@media screen and (max-width : 800px){
+    #pub-kind-btn{flex-direction: column;}
+    #pub-kind-btn button{width: 100%;}
+}
+
+/* publication 리스트 디자인 */
+#pub-per{
+    width: 52em;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+    margin-bottom: 0.5em;
+}
+/* 타이틀 */
+#per-circle{float:left;}
+#per-circle img{width:0.8em; height:0.8em;}
+#per-text{width: 45em; float:left;}
+#per-year{color:gray; font-size:0.8em;}
+/* DOI */
+#per-doi{float:right;}
+#per-doi button{
+    width: 4.5em;
+    height: 5em;
+    margin-top: 1em;
+    font-size: 0.6em;
+    text-align: center;
+    border: 1px solid rgb(184, 183, 183);
+    background: none;
+    cursor: pointer;
+}
+#per-doi button img{width:1.5em; height:1.5em; vertical-align:middle;}
+#per-doi button:hover{border:1px solid red;}
+
+#pub-section{margin-bottom:4em;}
+
+
+#footer-empty{
+    width: 100%;
+    height: 5em;
+}
+
+@media screen and (max-width : 800px){
+    #pub-per{width:100%;}
+    #per-text{width: 90%;}
+    #per-doi{float: none;}
+    #per-doi button{width:100%; height:3.5em;}
+}

@@ -1,0 +1,58 @@
+.home{width: 100%;}
+
+/* 메인 이미지(숲) */
+#image{
+    width: 100%;
+    height: 20em;
+    filter: blur(2px) brightness(50%);;
+    background: rgb(145, 207, 145);
+}
+
+/* 메인 로고 */
+#lab-title{
+    position: absolute;
+    width: 14em;
+    right: 20%;
+    top: 6em;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1em;
+    color: white;
+    z-index: 100;
+}
+#lab-title hr{
+    height: 4px;
+    background: white;
+}
+
+/* 창 크기에 따른 로고 위치 및 크기 조절 */
+@media screen and (max-width : 800px){
+    #lab-title{
+        right: 50%;
+        top: 9em;
+        font-size: 1.4em;
+        margin-right: -7em;
+    }
+    #lab-title hr{height:2px;}
+}
+
+/* 아래에 글 */
+#home-section{
+    width: 50%;
+    margin: auto;
+    margin-top: 3em;
+    margin-bottom: 5em;
+    text-align: center;
+}
+#home-title{
+    font-size:1.6em;
+    font-weight:bold;
+}
+
+/* 맨 아래 빈 공간 */
+#footer{
+    width: 100%;
+    height: 5em;
+    background: #022601;
+}
