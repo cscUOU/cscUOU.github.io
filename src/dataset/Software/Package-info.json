@@ -1,12 +1,7 @@
 [
     {
-        "name": "Shipyard-process-logistics-optimization",
-        "image": "shipyard.png",
-        "github": "https://github.com/cscUOU/Shipyard-process-logistics-optimization"
-    },
-    {
         "name": "course-datascience",
-        "image": "shipyard.png",
+        "image": "datascience.png",
         "github": "https://github.com/cscUOU/course-datascience"
     },
     {
