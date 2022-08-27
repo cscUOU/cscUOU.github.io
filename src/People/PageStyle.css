@@ -1,0 +1,86 @@
+.people{
+    width: 100%;
+}
+
+/* 제목 부분 */
+#people-top{
+    margin-top: 3em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+#people-title{font-weight:bold; font-size:2em;}
+#people-text{font-size:1.2em;}
+
+/* 사람들 출력 부분 */
+#people-member{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 1em;
+    text-align: center;
+}
+#people-section{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#people-member-title{font-weight:bold; font-size:1.5em;}
+
+/* 각 사람 별 디자인 */
+#people-member-info{
+    width: 180px;
+    height: 270px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 2em;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background: white;
+}
+/* 사람 이미지 및 메일 */
+#img-wrapper{width:180px; height:180px; position:absolute;}
+#img-wrapper img{width:inherit; height:inherit; border-top-left-radius:10px; border-top-right-radius:10px; object-fit:cover;}
+#darkness{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: inherit;
+    height: inherit;
+    background: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    opacity: 0;
+    transition: 0.3s;
+}
+#member-mail{
+    width: 70px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    left: 55px;
+    opacity: 0;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: white;
+    border: 2px solid white;
+    border-radius:3px;
+    background: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#member-mail:hover{
+    border: 1px solid rgb(255, 95, 95);
+    background: rgb(255, 95, 95);
+}
+#img-wrapper:hover #darkness{opacity:0.4;}
+#img-wrapper:hover #member-mail{opacity:1;}
+/* 사람의 기본적인 정보 */
+#member-name{margin-top:190px; margin-left:1em; line-height:1em; font-weight: bold; font-size:1.1em;}
+#member-info{margin-left:1em; line-height:0.6em; font-size:0.9em;}
+#people-member-info p{margin-left:1em;}
+
+
+#footer-empty{
+    width: 100%;
+    height: 5em;
+}
