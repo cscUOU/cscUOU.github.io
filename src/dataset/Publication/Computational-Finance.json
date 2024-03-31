@@ -1,0 +1,44 @@
+[
+    {
+        "title": "An Empirical Study on Importance of Modeling Parameters and Trading Volume-Based Features in Daily Stock Trading Using Neural Networks",
+        "authors": "Thuy-An Dinh, Yung-Keun Kwon",
+        "journal/conference": "Informatics",
+        "year": 2018,
+        "DOI": "https://doi.org/10.3390/informatics5030036"
+    },
+    {
+        "title": "A hybrid system integrating a piecewise linear representation and a neural network for stock prediction",
+        "authors": "Yung-Keun Kwon, Hui-Di Sun",
+        "journal/conference": "Proceedings of International Forum on Strategic Technology",
+        "year": 2011,
+        "DOI": "https://doi.org/10.1109/IFOST.2011.6021141"
+    },
+    {
+        "title": "A hybrid neurogenetic approach for stock",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "IEEE Transactions on Neural",
+        "year": 2007,
+        "DOI": "https://doi.org/10.1109/TNN.2007.891629"
+    },
+    {
+        "title": "Stock prediction based on financial correlation",
+        "authors": "Yung-Keun Kwon, Sung-Soon Choi, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2005,
+        "DOI": "https://doi.org/10.1145/1068009.1068351"
+    },
+    {
+        "title": "Evolutionary Ensemble for Stock Prediction",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2004,
+        "DOI": "https://doi.org/10.1007/978-3-540-24855-2_120"
+    },
+    {
+        "title": "Daily Stock Prediction Using Neuro-genetic Hybrids",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2003,
+        "DOI": "https://doi.org/10.1007/3-540-45110-2_115"
+    }
+]

@@ -1,0 +1,32 @@
+/* 제목 부분 */
+#con-top{
+    margin-top: 3em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+#con-title{font-weight:bold; font-size:2em;}
+
+/* 연구실 정보 */
+#con-info{
+    width: 52em;
+    height: 6em;
+    border-left: 7px solid rgb(21, 68, 21);
+    margin: auto;
+}
+#con-info p{margin-left: 3em;}
+
+/* 지도(구글 지도) */
+iframe{
+    width: 52em;
+    height: 42em;
+    margin-top: 2em;
+    position: absolute;
+    left: 50%;
+    margin-left: -26em;
+    margin-bottom: 5em;
+}
+
+@media screen and (max-width : 800px){
+    #con-info{width:100%;}
+    iframe{width:100%; left:0%; margin-left:0;}
+}

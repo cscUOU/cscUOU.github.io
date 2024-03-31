@@ -1,0 +1,12 @@
+[
+    {
+        "name": "course-datascience",
+        "image": "datascience.png",
+        "github": "https://github.com/cscUOU/course-datascience"
+    },
+    {
+        "name": "Shipyard-process-optimization",
+        "image": "shipyard_cli.png",
+        "github": "https://github.com/cscUOU/Shipyard-process-optimization"
+    }
+]

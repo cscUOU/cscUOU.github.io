@@ -1,0 +1,163 @@
+[
+    {
+        "title": "Shipyard Skid Sequence Optimization Using a Hybrid Genetic Algorithm",
+        "authors": "Min-Jae Choi, Yung-Keun Kwon",
+        "journal/conference": " Journal of The Korea Society of Computer and Information(한국컴퓨터정보학회)",
+        "year": 2023,
+        "DOI": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11641997"
+    },
+    {
+        "title": "A hybrid genetic algorithm for the optimal transporter management plan in a shipyard",
+        "authors": "Jun-Ho Park, Yung-Keun Kwon",
+        "journal/conference": " Journal of The Korea Society of Computer and Information(한국컴퓨터정보학회)",
+        "year": 2023,
+        "DOI": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11641994"
+    },
+    {
+        "title": "A Simple Paint Thickness Estimation Model in Shipyard Spray Painting",
+        "authors": "Seung-Hun Lee, Geun-Wan Kim, Yung-Keun Kwon",
+        "journal/conference": " Journal of The Korea Society of Computer and Information(한국컴퓨터정보학회)",
+        "year": 2023,
+        "DOI": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11217725"
+    },
+    {
+        "title": "A Data-Independent Genetic Algorithm Framework for Fault-Type Classification and Remaining Useful Life Prediction",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Applied Sciences",
+        "year": 2020,
+        "DOI": "https://doi.org/10.3390/app10010368"
+    },
+    {
+        "title": "An Empirical Investigation on a Multiple Filters-Based Approach for Remaining Useful Life Prediction",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Machines",
+        "year": 2018,
+        "DOI": "https://doi.org/10.3390/machines6030035"
+    },
+    {
+        "title": "Economic Ship Routing System by a Path Search Algorithm Based on an Evolutionary Strategy (진화전략 기반 경로탐색 알고리즘을 활용한 선박경제운항시스템)",
+        "authors": "Se-Hwan Bang, Yung-Keun Kwon",
+        "journal/conference": "The Journal of Korean Institute of Communications and Information Sciences (한국통신학회논문지)",
+        "year": 2014,
+        "DOI": "https://doi.org/10.7840/kics.2014.39C.9.767"
+    },
+    {
+        "title": "Understanding of Structural Changes of Keyword Networks in the Computer Engineering Field (컴퓨터공학 분야 키워드네트워크의 구조적 변화 이해)",
+        "authors": "Yung-Keun Kwon",
+        "journal/conference": "KIPS Transactions on Software and Data Engineering (정보처리학회논문지:소프트웨어 및 데이터공학)",
+        "year": 2013,
+        "DOI": "https://doi.org/10.3745/KTSDE.2013.2.3.187"
+    },
+    {
+        "title": "A Hybrid Technique for Medical Image Segmentation",
+        "authors": "Alamgir Nyma, Myeongsu Kang, Yung-Keun Kwon, Cheol-Hong Kim, Jong-Myon Kim",
+        "journal/conference": "Journal of Biomedicine and Biotechnology",
+        "year": 2012,
+        "DOI": "https://doi.org/10.1155/2012/830252"
+    },
+    {
+        "title": "An Economic Ship Routing System Based on a Minimal Dynamic-cost Path Search Algorithm (최소동적비용 경로탐색 알고리즘 기반 선박경제운항시스템)",
+        "authors": "Sang-Yeon Joo, Tae-Jeong Cho, Jae-Mun Cha, Jin-Ho Yang, Yung-Keun Kwon",
+        "journal/conference": "KIPS Transactions on Computer and Communication Systems (정보처리학회논문지:컴퓨터 및 통신 시스템)",
+        "year": 2012,
+        "DOI": "https://doi.org/10.3745/KTCCS.2012.1.2.079"
+    },
+    {
+        "title": "A Knowledge Map Based on a Keyword-Relation Network by Using a Research Paper Database in the Computer Engineering Field (컴퓨터공학 분야 학술 논문 데이터베이스를 이용한 키워드 연관 네트워크 기반 지식지도)",
+        "authors": "Bo-Seok Jung, Yung-Keun Kwon, Seung-Jin Kwak",
+        "journal/conference": "The KIPS Transactions:PartD (정보처리학회논문지D)",
+        "year": 2011,
+        "DOI": "https://doi.org/10.3745/KIPSTD.2011.18D.6.501"
+    },
+    {
+        "title": "An Economic Ship Routing System by Optimizing Outputs of Engine-Power based on an Evolutionary Strategy (진화전략기반 엔진출력 최적화를 통한 선박경제운항시스템)",
+        "authors": "Ho-Seop Jang, Yung-Keun Kwon",
+        "journal/conference": "The Journal of Korean Institute of Communications and Information Sciences (한국통신학회논문지)",
+        "year": 2011,
+        "DOI": "https://doi.org/10.7840/KICS.2011.36B.4.412"
+    },
+    {
+        "title": "A study on the knowledge map of the computer engineering field by using a research paper database (학술 논문 데이터베이스를 이용한 컴퓨터 분야 지식지도에 관한 연구)",
+        "authors": "Bo-Seok Jung, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the Korea Information Processing Society Conference (한국정보처리학회:학술대회논문집)",
+        "year": 2011,
+        "DOI": ""
+    },
+    {
+        "title": "An economic ship routing system based on a weather forecasting and a sailing cost prediction (기상예보와 운항비용예측 기반의 선박경제운항시스템)",
+        "authors": "Ho-Seop Jang, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the Korea Information Processing Society Conference (한국정보처리학회:학술대회논문집)",
+        "year": 2011,
+        "DOI": ""
+    },
+    {
+        "title": "TwitNet : Cytoscape Plugin for Visualizing Relation betweens Twitter Users (TwitNet : 트위터 사용자들의 관계를 시각적으로 나타내는 Cytoscape 플러그인 개발)",
+        "authors": "Ji-Hye Park, Bo-Hyun Kim, Myung-Joon Lee, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the Korean Information Science Society Conference (한국정보과학회:학술대회논문집)",
+        "year": 2010,
+        "DOI": ""
+    },
+    {
+        "title": "Properties of Symmetric Fitness Functions",
+        "authors": "Sung-Soon Choi, Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "IEEE Transactions on Evolutionary Computation",
+        "year": 2007,
+        "DOI": "https://doi.org/10.1109/TEVC.2007.892764"
+    },
+    {
+        "title": "Nonlinear parametric regression in genetic programming",
+        "authors": "Yung-Keun Kwon, Sung-Soon Choi, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2006,
+        "DOI": "https://doi.org/10.1145/1143997.1144161"
+    },
+    {
+        "title": "Critical heat flux function approximation using genetic algorithms",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon, Sung-Deok Hong",
+        "journal/conference": "IEEE Transactions on Nuclear Science",
+        "year": 2005,
+        "DOI": "https://doi.org/10.1109/TNS.2005.846834"
+    },
+    {
+        "title": "Nonlinear feature extraction using a neuro genetic hybrid",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2005,
+        "DOI": "https://doi.org/10.1145/1068009.1068355"
+    },
+    {
+        "title": "Problem-Independent Gene Reordering for Genetic Algorithms (유전 알고리즘에서의 문제 독립적 유전자 재배열)",
+        "authors": "Yung-Keun Kwon, Yung-Hyuk Kim, Byung-Ro Moon",
+        "journal/conference": "Journal of KIISE:Software and Applications (한국정보과학회논문지:소프트웨어및응용)",
+        "year": 2005,
+        "DOI": ""
+    },
+    {
+        "title": "Evolving Features in Neural Networks for System Identification",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2004,
+        "DOI": "https://doi.org/10.1007/978-3-540-24855-2_45"
+    },
+    {
+        "title": "Problem-Independent Schema Synthesis for Genetic Algorithms",
+        "authors": "Yong-Hyuk Kim, Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2003,
+        "DOI": "https://doi.org/10.1007/3-540-45105-6_120"
+    },
+    {
+        "title": "Assignment Copy Detection Using Neuro-genetic Hybrids",
+        "authors": "Seung-Jin Yang, Yong-Geon Kim, Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2003,
+        "DOI": "https://doi.org/10.1007/3-540-45110-2_146"
+    },
+    {
+        "title": "Personalized email marketing with a genetic programming circuit model",
+        "authors": "Yung-Keun Kwon, Byung-Ro Moon",
+        "journal/conference": "Genetic and Evolutionary Computation (GECCO)",
+        "year": 2001,
+        "DOI": ""
+    }
+]

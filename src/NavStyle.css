@@ -1,0 +1,86 @@
+.nav{
+    width: 100%;
+    height: 5em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #022601;
+    z-index: 1000;
+    transition: 0.5s;
+}
+
+
+/* 메뉴 버튼 디자인 */
+#nav-menu{
+    height: 2em;
+    width: 6em;
+    margin: 0 2em;
+    font-size: 14px;
+    color: white;
+    background: none;
+    border: 0;
+    border-radius: 12px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+}
+#nav-menu:hover{
+    color: black;
+    background: white;
+}
+
+
+/* 토글 버튼 디자인 */
+#control_menu{
+    display: none;
+    width: 100%;
+    height: 5em;
+}
+.cont_btn{
+    width: 4em;
+    height: 4em;
+    margin-top: 0.8em;
+    margin-left: 0.8em;
+    display: block;
+    cursor:pointer;
+}
+.cont_btn span{
+    display: block;
+    width: 4em;
+    height: 0.4em;
+    border-radius: 4px;
+    background-color: white;
+    transition: 0.3s;
+}
+.cont_btn span:nth-of-type(1){margin-top:0;}
+.cont_btn span:nth-of-type(2){margin-top:13px;}
+.cont_btn span:nth-of-type(3){margin-top:13px;}
+.cont_btn.active span:nth-of-type(1) {
+    width: 4em;
+    transform: translate(0px, 1.5em) rotate(-45deg);
+}
+.cont_btn.active span:nth-of-type(2){
+    display: none;
+}
+.cont_btn.active span:nth-of-type(3) {
+    width: 4em;
+    transform: translate(0px, 0.2em) rotate(45deg);
+}
+
+
+/* 창 크기에 따른 사이즈 조절 */
+@media screen and (max-width : 800px){
+    .nav{
+        height: 20em;
+        flex-direction: column;
+    }
+    #nav-menu{
+        width: 100%;
+        height: 2.5em;
+    }
+    
+    #control_menu{display:block;}
+}

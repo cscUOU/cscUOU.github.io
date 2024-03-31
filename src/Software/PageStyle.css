@@ -1,0 +1,72 @@
+.soft{width:100%;}
+
+#soft-top{
+    margin-top: 3em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+#soft-title{font-weight:bold; font-size:2em;}
+
+
+.package-wrapper{
+    width: 51em;
+    height: 15em;
+    margin: auto;
+    margin-bottom: 2em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.pack{
+    width: 14em;
+    height: 17em;
+    margin: auto;
+    margin-top: 2em;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.pack div{
+    width: 14em;
+    height: 17em;
+    position: absolute;
+    border-radius: 20px;
+    opacity: 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#gogit{
+    font-size: 1.4em;
+    color: white;
+    text-align: center;
+    line-height: 11em;
+}
+.pack div:hover{
+    background: rgb(0, 0, 0, 0.8);
+    opacity: 1;
+}
+
+.pack img{
+    width: 14em;
+    height: 12em;
+    border-radius: 20px 20px 0 0;
+    object-fit: contain;
+    z-index: -1;
+}
+.pack #name{
+    width: 12em;
+    margin-left: 0.7em;
+    font-size: 1.1em;
+    color: black;
+    z-index: 10;
+}
+
+
+#footer-empty{
+    width: 100%;
+    height: 5em;
+}
+
+
+@media screen and (max-width : 730px){
+    .package-wrapper{width:100%; grid-template-columns: 1fr 1fr;}
+}

@@ -1,0 +1,268 @@
+[
+    {
+        "title": "Mutual Information Based on Multiple Level Discretization Network Inference from Time Series Gene Expression Profiles",
+        "authors": "Cao-Tuan Anh, Yung-Keun Kwon",
+        "journal/conference": "MDPI Biosciences and Bioengineering",
+        "year": 2023,
+        "DOI": "https://www.mdpi.com/2218-273X/12/8/1139"
+    },
+    {
+        "title": "In Silico Pleiotropy Analysis in KEGG Signaling Networks Using a Boolean Network Model",
+        "authors": "Maulida Mazaya, Yung-Keun Kwon",
+        "journal/conference": "Biomolecules",
+        "year": 2022,
+        "DOI": "https://www.mdpi.com/2218-273X/12/8/1139"
+    },
+    {
+        "title": "A novel constrained genetic algorithm-based Boolean network inference method from steady-state gene expression data",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2021,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btab295"
+    },
+    {
+        "title": "A neuro-evolution approach to infer a Boolean network from time-series gene expressions",
+        "authors": "Shohag Barman, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2020,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btaa840"
+    },
+    {
+        "title": "A Boolean network inference from time-series gene expression data using a statistical method",
+        "authors": "Shohag Barman, Hira Lal Gope, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the International Conference on Computing Advancements (ICCA)",
+        "year": 2020,
+        "DOI": "https://doi.org/10.1145/3377049.3377080"
+    },
+    {
+        "title": "Effects of ordered mutations on dynamics in signaling networks",
+        "authors": "Maulida Mazaya, Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "BMC Medical Genomics volume",
+        "year": 2020,
+        "DOI": "https://doi.org/10.1186/s12920-019-0651-z"
+    },
+    {
+        "title": "RMut: R package for a Boolean sensitivity analysis against various types of mutations",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Plos One",
+        "year": 2019,
+        "DOI": "https://doi.org/10.1371/journal.pone.0213736"
+    },
+    {
+        "title": "A Boolean network inference from time-series gene expression data using a genetic algorithm",
+        "authors": "Shohag Barman, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2018,
+        "DOI": "https://doi.org/10.1093/bioinformatics/bty584"
+    },
+    {
+        "title": "Hierarchical closeness-based properties reveal cancer survivability and biomarker genes in molecular signaling networks",
+        "authors": "Tien-Dzung Tran, Yung-Keun Kwon",
+        "journal/conference": "Plos One",
+        "year": 2018,
+        "DOI": "https://doi.org/10.1371/journal.pone.0199109"
+    },
+    {
+        "title": "A novel mutual information-based Boolean network inference method from time-series gene expression data",
+        "authors": "Shohag Barman, Yung-Keun Kwon",
+        "journal/conference": "Plos One",
+        "year": 2017,
+        "DOI": "https://doi.org/10.1371/journal.pone.0199109"
+    },
+    {
+        "title": "Investigation on changes of modularity and robustness by edge-removal mutations in signaling networks",
+        "authors": "Tien-Dzung Tran, Yung-Keun Kwon",
+        "journal/conference": "BMC Systems Biology",
+        "year": 2017,
+        "DOI": "https://doi.org/10.1186/s12918-017-0505-2"
+    },
+    {
+        "title": "Construction and analysis of gene-gene dynamics influence networks based on a Boolean model",
+        "authors": "Maulida Mazaya, Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "BMC Systems Biology",
+        "year": 2017,
+        "DOI": "https://doi.org/10.1186/s12918-017-0509-y"
+    },
+    {
+        "title": "Dynamical Robustness against Multiple Mutations in Signaling Networks",
+        "authors": "Yung-Keun Kwon, Junil Kim, Kwang-Hyun Cho",
+        "journal/conference": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+        "year": 2016,
+        "DOI": "https://doi.org/10.1109/TCBB.2015.2495251"
+    },
+    {
+        "title": "Edge-based sensitivity analysis of signaling networks by using Boolean dynamics",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2016,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btw464"
+    },
+    {
+        "title": "MORO: a Cytoscape app for relationship analysis between modularity and robustness in large-scale biological networks",
+        "authors": "Cong-Doan Truong, Tien-Dzung Tran, Yung-Keun Kwon",
+        "journal/conference": "BMC Systems Biology",
+        "year": 2016,
+        "DOI": "https://doi.org/10.1186/s12918-016-0363-3"
+    },
+    {
+        "title": "Properties of Boolean dynamics by node classification using feedback loops in a network",
+        "authors": "Yung-Keun Kwon",
+        "journal/conference": "BMC Systems Biology",
+        "year": 2016,
+        "DOI": "https://doi.org/10.1186/s12918-016-0322-z"
+    },
+    {
+        "title": "A Comparative Study of Classification-Based Machine Learning Methods for Novel Disease Gene Prediction",
+        "authors": "Duc-Hau Le, Nguyen Xuan Hoai, Yung-Keun Kwon",
+        "journal/conference": "Knowledge and Systems Engineering",
+        "year": 2015,
+        "DOI": "https://doi.org/10.1007/978-3-319-11680-8_46"
+    },
+    {
+        "title": "Effective Boolean dynamics analysis to identify functionally important genes in large-scale signaling networks",
+        "authors": "Hung-Cuong Trinh, Yung-Keun Kwon",
+        "journal/conference": "Biosystems",
+        "year": 2015,
+        "DOI": "https://doi.org/10.1016/j.biosystems.2015.07.007"
+    },
+    {
+        "title": "PANET: A GPU-Based Tool for Fast Parallel Analysis of Robustness Dynamics and Feed-Forward/Feedback Loop Structures in Large-Scale Biological Networks",
+        "authors": "Hung-Cuong Trinh, Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Plos One",
+        "year": 2014,
+        "DOI": "https://doi.org/10.1371/journal.pone.0103010"
+    },
+    {
+        "title": "Hierarchical closeness efficiently predicts disease genes in a directed signaling network",
+        "authors": "Tien-Dzung Tran, Yung-Keun Kwon",
+        "journal/conference": "Computational Biology and Chemistry",
+        "year": 2014,
+        "DOI": "https://doi.org/10.1016/j.compbiolchem.2014.08.023"
+    },
+    {
+        "title": "Construction of an Effectiveness Network to Identify Dynamical Interaction of Genes",
+        "authors": "Maulida Mazaya, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the Korea Information Processing Society Conference (한국정보처리학회:학술대회논문집)",
+        "year": 2014,
+        "DOI": "https://doi.org/10.3745/PKIPS.y2014m11a.837"
+    },
+    {
+        "title": "Reverse Engineering of a Gene Regulatory Network from Time-Series Data Using Mutual Information",
+        "authors": "Shohag Barman, Yung-Keun Kwon",
+        "journal/conference": "Proceedings of the Korea Information Processing Society Conference (한국정보처리학회:학술대회논문집)",
+        "year": 2014,
+        "DOI": "https://doi.org/10.3745/PKIPS.y2014m11a.849"
+    },
+    {
+        "title": "Neighbor-favoring weight reinforcement to improve random walk-based disease gene prioritization",
+        "authors": "Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Computational Biology and Chemistry",
+        "year": 2013,
+        "DOI": "https://doi.org/10.1016/j.compbiolchem.2013.01.001"
+    },
+    {
+        "title": "A coherent feedforward loop design principle to sustain robustness of biological networks",
+        "authors": "Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2013,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btt026"
+    },
+    {
+        "title": "The relationship between modularity and robustness in signalling networks",
+        "authors": "Tien-Dzung Tran, Yung-Keun Kwon",
+        "journal/conference": "Journal of the Royal Society Interface",
+        "year": 2013,
+        "DOI": "https://doi.org/10.1098/rsif.2013.0771"
+    },
+    {
+        "title": "Towards the Identification of Disease Associated Protein Complexes",
+        "authors": "Duc-Hau Le, Nguyen Quang Uy, Pham Quang Dung, Huynh Thi Thanh Binh, Yung-Keun Kwon",
+        "journal/conference": "Procedia Computer Science",
+        "year": 2013,
+        "DOI": "https://doi.org/10.1016/j.procs.2013.10.004"
+    },
+    {
+        "title": "GPEC: A Cytoscape plug-in for random walk-based gene prioritization and biomedical evidence collection",
+        "authors": "Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Computational Biology and Chemistry",
+        "year": 2012,
+        "DOI": "https://doi.org/10.1016/j.compbiolchem.2012.02.004"
+    },
+    {
+        "title": "Reduction of Complex Signaling Networks to a Representative Kernel",
+        "authors": "Jeong-Rae Kim, Junil Kim, Yung-Keun Kwon, Hwang-Yeol Lee, Pat Heslop-Harrison, and Kwang-Hyun Cho",
+        "journal/conference": "Science Signaling",
+        "year": 2011,
+        "DOI": "https://doi.org/10.1126/scisignal.2001390"
+    },
+    {
+        "title": "NetDS: a Cytoscape plugin to analyze the robustness of dynamics and feedforward/feedback loop structures of biological networks",
+        "authors": "Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2011,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btr466"
+    },
+    {
+        "title": "The effects of feedback loops on disease comorbidity in human signaling networks",
+        "authors": "Duc-Hau Le, Yung-Keun Kwon",
+        "journal/conference": "Bioinformatics",
+        "year": 2011,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btr082"
+    },
+    {
+        "title": "The Effects of Feedback Loops on the Network Robustness by using a Random Boolean Network Model (랜덤 불리언 네트워크 모델을 이용한 되먹임 루프가 네트워크 강건성에 미치는 영향)",
+        "authors": "Yung-Keun Kwon",
+        "journal/conference": "Journal of KIISE:Computer Systems and Theory (한국정보과학회논문지:시스템및이론)",
+        "year": 2010,
+        "DOI": ""
+    },
+    {
+        "title": "Quantitative analysis of robustness and fragility in biological networks based on feedback dynamics",
+        "authors": "Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "Bioinformatics",
+        "year": 2008,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btn060"
+    },
+    {
+        "title": "The biphasic behavior of incoherent feed‐forward loops in biomolecular regulatory networks",
+        "authors": "Dongsan Kim, Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "BioEssays",
+        "year": 2008,
+        "DOI": "https://doi.org/10.1002/bies.20839"
+    },
+    {
+        "title": "Coherent coupling of feedback loops: a design principle of cell signaling networks",
+        "authors": "Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "Bioinformatics",
+        "year": 2008,
+        "DOI": "https://doi.org/10.1093/bioinformatics/btn337"
+    },
+    {
+        "title": "Analysis of feedback loops and robustness in network evolution based on Boolean models",
+        "authors": "Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "BMC Bioinformatics",
+        "year": 2007,
+        "DOI": "https://doi.org/10.1186/1471-2105-8-430"
+    },
+    {
+        "title": "Boolean Dynamics of Biological Networks with Multiple Coupled Feedback Loops",
+        "authors": "Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "Biophysical Journal",
+        "year": 2007,
+        "DOI": "https://doi.org/10.1529/biophysj.106.097097"
+    },
+    {
+        "title": "Investigations into the relationship between feedback loops and functional importance of a signal transduction network based on Boolean network modeling",
+        "authors": "Yung-Keun Kwon, Sun Shim Choi, Kwang-Hyun Cho",
+        "journal/conference": "BMC Bioinformatics",
+        "year": 2007,
+        "DOI": "https://doi.org/10.1186/1471-2105-8-384"
+    },
+    {
+        "title": "Coupled positive and negative feedback circuits form an essential building block of cellular signaling pathways",
+        "authors": "Dongsan Kim, Yung-Keun Kwon, Kwang-Hyun Cho",
+        "journal/conference": "BioEssays",
+        "year": 2006,
+        "DOI": "https://doi.org/10.1002/bies.20511"
+    }
+]
