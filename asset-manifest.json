@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c6bd32b.css",
-    "main.js": "/static/js/main.4ce50b75.js",
-    "static/media/Anh-Cao-Tuan.jfif": "/static/media/Anh-Cao-Tuan.15729e953108e71ebb4e.jfif",
-    "static/media/Phan-Tran-Minh.jpg": "/static/media/Phan-Tran-Minh.ad3126284740321be55c.jpg",
-    "static/media/Geunwan-Kim.jpg": "/static/media/Geunwan-Kim.536da367c1feee88b47a.jpg",
-    "static/media/background.jpg": "/static/media/background.9ffd19139cef1c53ade7.jpg",
-    "static/media/Yung-Keun-Kwon.jpg": "/static/media/Yung-Keun-Kwon.200ed2450a6de1ca8f82.jpg",
-    "static/media/shipyard.png": "/static/media/shipyard.d206abb1a7273a2e25d8.png",
-    "static/media/shipyard_cli.png": "/static/media/shipyard_cli.d206abb1a7273a2e25d8.png",
-    "static/media/Bio.png": "/static/media/Bio.2dc31d50c5ff293e4076.png",
-    "static/media/datascience.png": "/static/media/datascience.9df6972844ef008a2679.png",
-    "static/media/Prediction.jpg": "/static/media/Prediction.beed3e97dece84ce3145.jpg",
+    "main.css": "/static/css/main.3389f111.chunk.css",
+    "main.js": "/static/js/main.52693bf1.chunk.js",
+    "main.js.map": "/static/js/main.52693bf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01237281.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01237281.js.map",
+    "static/css/2.7929a82b.chunk.css": "/static/css/2.7929a82b.chunk.css",
+    "static/js/2.4d7c3291.chunk.js": "/static/js/2.4d7c3291.chunk.js",
+    "static/js/2.4d7c3291.chunk.js.map": "/static/js/2.4d7c3291.chunk.js.map",
     "index.html": "/index.html",
-    "main.5c6bd32b.css.map": "/static/css/main.5c6bd32b.css.map",
-    "main.4ce50b75.js.map": "/static/js/main.4ce50b75.js.map"
+    "static/css/2.7929a82b.chunk.css.map": "/static/css/2.7929a82b.chunk.css.map",
+    "static/css/main.3389f111.chunk.css.map": "/static/css/main.3389f111.chunk.css.map",
+    "static/js/2.4d7c3291.chunk.js.LICENSE.txt": "/static/js/2.4d7c3291.chunk.js.LICENSE.txt",
+    "static/media/Anh-Cao-Tuan.jfif": "/static/media/Anh-Cao-Tuan.15729e95.jfif",
+    "static/media/Bio.png": "/static/media/Bio.2dc31d50.png",
+    "static/media/Geunwan-Kim.jpg": "/static/media/Geunwan-Kim.536da367.jpg",
+    "static/media/Phan-Tran-Minh.jpg": "/static/media/Phan-Tran-Minh.ad312628.jpg",
+    "static/media/Prediction.jpg": "/static/media/Prediction.beed3e97.jpg",
+    "static/media/Yung-Keun-Kwon.jpg": "/static/media/Yung-Keun-Kwon.200ed245.jpg",
+    "static/media/background.9ffd1913.jpg": "/static/media/background.9ffd1913.jpg",
+    "static/media/datascience.png": "/static/media/datascience.9df69728.png",
+    "static/media/shipyard.png": "/static/media/shipyard.d206abb1.png",
+    "static/media/shipyard_cli.png": "/static/media/shipyard_cli.d206abb1.png"
   },
   "entrypoints": [
-    "static/css/main.5c6bd32b.css",
-    "static/js/main.4ce50b75.js"
+    "static/js/runtime-main.01237281.js",
+    "static/css/2.7929a82b.chunk.css",
+    "static/js/2.4d7c3291.chunk.js",
+    "static/css/main.3389f111.chunk.css",
+    "static/js/main.52693bf1.chunk.js"
   ]
 }
